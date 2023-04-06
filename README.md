@@ -31,6 +31,7 @@ ___
 * Airport Code Table: This is a simple table of airport codes and corresponding cities. It comes from [here](https://datahub.io/core/airport-codes#data/).
 <br>
 ___
+
 ### The Datasets used:
 | Data Set | Format |
 |---|---|
@@ -90,10 +91,11 @@ Data Pipeline Steps:
 
 #### 4.3 Data dictionary 
 #### The full source data dictionary:
-Refer to [data_dictionary.md](/data_dictionary)
+Refer to [data_dictionary.md](https://github.com/khaledshabasy/Data-Modeling-Spark-udacity-capstone/blob/master/data_dictionary.md)
 <br>
+
 #### The data model dictionary:
-Refer to [model_data_dictionary.md](/model_data_dictionary)
+Refer to [model_data_dictionary.md](https://github.com/khaledshabasy/Data-Modeling-Spark-udacity-capstone/blob/master/model_data_dictionary.md)
 
 
 #### Step 5: Complete Project Write Up
